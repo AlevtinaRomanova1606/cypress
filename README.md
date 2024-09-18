@@ -12,16 +12,16 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-![image]()
+![image](https://raw.githubusercontent.com/AlevtinaRomanova1606/cypress/main/%20cypress.png)
 
 2. Применение хуков beforeEach и afterEach
 ![image](https://raw.githubusercontent.com/AlevtinaRomanova1606/cypress/main/locators.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
+![image]([https://raw.githubusercontent.com/AlevtinaRomanova1606/cypress/main/default.png])
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
+![image](https://raw.githubusercontent.com/AlevtinaRomanova1606/cypress/main/locator.png)
 
 ## Локальный запуск через Cypress UI
 1. Скачать проект и открыть в терминале.
@@ -33,7 +33,7 @@
 7. Выбрать спеку lesson_locators
 
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_UI.png)
+![image](https://raw.githubusercontent.com/AlevtinaRomanova1606/cypress/main/itog.png)
 
 
 ## Автор

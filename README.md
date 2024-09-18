@@ -18,7 +18,7 @@
 ![image](https://raw.githubusercontent.com/AlevtinaRomanova1606/cypress/main/locators.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image]([https://raw.githubusercontent.com/AlevtinaRomanova1606/cypress/main/default.png])
+![image](https://raw.githubusercontent.com/AlevtinaRomanova1606/cypress/main/default.png)
 
 4. Каждая страница описана в формате объекта с локаторами
 ![image](https://raw.githubusercontent.com/AlevtinaRomanova1606/cypress/main/locator.png)
